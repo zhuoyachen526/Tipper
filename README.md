@@ -40,7 +40,7 @@ When building Tipper, I felt user interaction related functions like onTap, calc
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Zhuoya Chen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
