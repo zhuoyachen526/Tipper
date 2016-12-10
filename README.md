@@ -30,10 +30,13 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+GIF walkthrough of Tipper's functionality: 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+When building Tipper, I felt user interaction related functions like onTap, calculateTip are very important and challenging. I can't do it without learning from the walkthrough video. In general, it's a very small but useful app and I learned a lot about swift syntax, iOS app layout design and how to connect different labels and text views and use them to achieve some functionalities.
 
 ## License
 
